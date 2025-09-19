@@ -1,7 +1,7 @@
 
   # Blockchain Certificate Verification
 
-  This is a code bundle for Blockchain Certificate Verification. The original project is available at https://www.figma.com/design/TPBUad2NrR26boRdlXbEtk/Blockchain-Certificate-Verification.
+  This is a code bundle for Blockchain Certificate Verification. The original project is available at https://aroma-ide-47745395.figma.site
 
   ## Running the code
 
